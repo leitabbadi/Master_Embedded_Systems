@@ -1,6 +1,6 @@
 /*
  ====================================================Home_work-1=======================================================================
-Name        : EX2_C_Program_To_Print_Sentence.c
+Name        : EX2_C_Program_To_Print_a_Integer_Entered_by_a_User.c
 Author      : Leit Abbadi
 Created on	: Feb 19, 2024
 Description : Unit 2 C-Programming >> Assignment 1 C-Basic >> EX2 C Program To Print a Integer Entered by a User using Ansi-style (c99)
